@@ -43,10 +43,14 @@ git pull
 ##### Premier League 
 1. Arsenal
   - Martineli 
-  - Saka
+  - Saka 
+  - Lacazette 
 2. Spurs
   - Kane 
   - Son 
+  - Conte 
 
 ##### Mentioning People 
 @ShallumEss was seated next to me today 
+
+Lets see if these chnages will reflect 
