@@ -1,4 +1,4 @@
-# Basic Wrting and Formatting Syntax 
+# Basic Writing and Formatting Syntax 
 ## Github Basics 
 
 
